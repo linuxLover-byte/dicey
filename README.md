@@ -1,16 +1,8 @@
 # dicey
 
-A new Flutter project.
+# Android
+[Kazam_screencast_00000.webm](https://github.com/user-attachments/assets/b85d504f-64b4-49b7-8402-00ab09e594be)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Desktop
+[Kazam_screencast_00002.webm](https://github.com/user-attachments/assets/42f8c35c-3151-47d4-b7bd-695935d7925f)
